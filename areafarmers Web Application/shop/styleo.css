@@ -10,7 +10,8 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgb(190, 21, 21);
+  background: #1C5739;
+;
 }
 .wrapper{
   position: relative;
